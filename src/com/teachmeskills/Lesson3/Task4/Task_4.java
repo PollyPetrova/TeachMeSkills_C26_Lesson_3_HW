@@ -12,7 +12,7 @@ public class Task_4 {
         if(t> -5){
             System.out.println("Warm");
         }
-        else if(t<= -5 && t> -20){
+        else if(t> -20){
             System.out.println("Normal");
         }
         else {
